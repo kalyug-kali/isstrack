@@ -10,7 +10,7 @@ If no image is found, get a random space image.
 Command handlers for the '/start', '/iss', and '/help' commands.
 Unknown command handler for invalid commands.
 Docker containerization for easy deployment.
-Requirements
+Requirements 
 Python 3.6 or higher
 requests package
 telegram package
