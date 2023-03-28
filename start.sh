@@ -4,4 +4,4 @@
 . venv/bin/activate
 
 # Run the Python script
-python app.py
+python isstrack.py
