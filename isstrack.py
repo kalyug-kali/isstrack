@@ -1,6 +1,6 @@
 import requests
 import telegram
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+from telegram.ext import Updater, CommandHandler, MessageHandler
 
 # Define your Telegram Bot API token
 TOKEN = '6289462049:AAHgczooz0_7wBhH5nyP-G288UoPXjVxvmk'
